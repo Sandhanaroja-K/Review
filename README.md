@@ -97,6 +97,6 @@ can:
 - Enhance marketing strategies by focusing on positively reviewed products.
   
 ## 9. References
- "Sentiment Analysis of Customer Reviews using VADER and Machine Learning" by J. Singh et 
+- "Sentiment Analysis of Customer Reviews using VADER and Machine Learning" by J. Singh et 
 al. (2020)
- "Visualizing Customer Sentiment using Word Clouds and VADER" by M. Kumar et al. (2019)
+- "Visualizing Customer Sentiment using Word Clouds and VADER" by M. Kumar et al. (2019)
